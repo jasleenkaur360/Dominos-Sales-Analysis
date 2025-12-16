@@ -86,3 +86,6 @@ Tables:
 
 18. Revenue by Pizza Size
 - Revenue contribution of each pizza size (S, M, L, XL, XXL).
+
+## 📸 Dashboard Preview
+- https://public.tableau.com/app/profile/jasleen.kaur5991/viz/Book1_17653933289780/DominossalesDashboard
